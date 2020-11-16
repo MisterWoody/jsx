@@ -9,7 +9,6 @@ function getButtonText() {
 // create a react component
 
 const App = () => {
-    const buttonText = 'Click Me!';
     return (
         <div>
             <label className="label" for="name">Enter name:</label>
